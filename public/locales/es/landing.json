@@ -1,0 +1,143 @@
+{
+  "brand": "TradeNavigatorPro",
+  "hero": {
+    "title": "Domina los Mercados con",
+    "subtitle": "TradeNavigatorPro",
+    "description": "Plataforma de comercio avanzada con análisis en tiempo real, gestión de riesgos y herramientas de grado profesional para comerciantes serios.",
+    "realTimeData": "Datos de Mercado en Tiempo Real",
+    "advancedAnalytics": "Análisis Avanzado",
+    "riskManagement": "Gestión de Riesgos",
+    "startTrading": "Comenzar a Operar",
+    "viewDemo": "Ver Demo"
+  },
+  "features": {
+    "sectionTitle": "Inteligencia Comercial Todo-en-Uno para PYMES",
+    "sectionDescription": "Desbloquea cinco herramientas poderosas impulsadas por IA para navegar la política comercial de EE.UU., aranceles y desafíos de la cadena de suministro con confianza.",
+    "costCalculator": {
+      "title": "Calculadora de Costos",
+      "description": "Analiza el impacto de aranceles en los costos de tus productos con cálculos en tiempo real y exportaciones multi-formato."
+    },
+    "supplierDiversification": {
+      "title": "Diversificación de Proveedores",
+      "description": "Compara proveedores, evalúa riesgos y obtén recomendaciones impulsadas por IA para un abastecimiento óptimo."
+    },
+    "supplyChainPlanner": {
+      "title": "Planificador de Cadena de Suministro",
+      "description": "Modela escenarios, simula cambios de proveedores y optimiza inventario basado en el tiempo de aranceles."
+    },
+    "workforcePlanner": {
+      "title": "Planificador de Personal",
+      "description": "Ajusta planes de personal basado en costos cambiantes y pronostica necesidades de fuerza laboral bajo diferentes condiciones."
+    },
+    "alertsMonitoring": {
+      "title": "Alertas y Monitoreo",
+      "description": "Obtén actualizaciones de aranceles en tiempo real y noticias de proveedores con configuraciones de alerta personalizables."
+    },
+    "aiRecommendations": {
+      "title": "Recomendaciones IA",
+      "description": "Recibe sugerencias personalizadas de ahorro de costos y análisis predictivo para tendencias del mercado."
+    }
+  },
+  "dashboard": {
+    "tradingDashboard": "Panel de Comercio",
+    "portfolio": "Portafolio",
+    "profit": "Ganancia",
+    "trades": "Operaciones"
+  },
+  "pricing": {
+    "chooseTradingPlan": "Elige Tu Plan de Comercio",
+    "pricingDescription": "Opciones de precios flexibles diseñadas para comerciantes de todos los niveles. Escala tus operaciones comerciales con nuestro enfoque modular.",
+    "payPerApp": {
+      "title": "Pago por App",
+      "description": "Elige solo las apps que necesitas",
+      "features": [
+        "Elige solo las apps que necesitas",
+        "Incluye 1,000 llamadas API/app/mes",
+        "Agregar/quitar apps en cualquier momento",
+        "Soporte por email"
+      ],
+      "buttonText": "Seleccionar Apps"
+    },
+    "allAppsBundle": {
+      "title": "Paquete de Todas las Apps",
+      "description": "Acceso a todas las apps principales de comercio",
+      "features": [
+        "Acceso a todas las apps principales",
+        "5,000 llamadas API/mes incluidas",
+        "Descuento por paquete",
+        "Soporte prioritario",
+        "Análisis avanzado",
+        "Alertas personalizadas"
+      ],
+      "buttonText": "Iniciar Paquete"
+    },
+    "creditPack": {
+      "title": "Paquete de Créditos",
+      "description": "Opción flexible de pago por uso",
+      "features": [
+        "Usa créditos para cualquier app o llamadas API adicionales",
+        "Sin compromiso mensual",
+        "Compra más créditos en cualquier momento",
+        "Los créditos nunca expiran"
+      ],
+      "buttonText": "Comprar Créditos"
+    },
+    "enterprise": {
+      "title": "Empresarial",
+      "description": "Solución personalizada para equipos grandes",
+      "features": [
+        "Apps y créditos ilimitados",
+        "Integraciones personalizadas",
+        "Soporte dedicado",
+        "Garantía SLA",
+        "Opciones de marca blanca",
+        "Seguridad avanzada"
+      ],
+      "buttonText": "Contactar Ventas"
+    },
+    "mostPopular": "Más Popular",
+    "transparentUsagePricing": "Precios de Uso Transparentes",
+    "apiOverage": "Exceso de API:",
+    "perCall": "$0.01 por llamada",
+    "abovePlanLimit": "por encima del límite del plan.",
+    "creditsUsage": "Los créditos se pueden usar para llamadas API, reportes o acciones de apps. Monitorea tu uso en tiempo real a través de tu panel."
+  },
+  "cta": {
+    "readyToTransform": "¿Listo para Transformar Tus Operaciones Comerciales?",
+    "joinThousands": "Únete a miles de PYMES que ya usan TradeNavigatorPro para navegar el complejo mundo del comercio internacional.",
+    "scheduleDemo": "Programar una Demo"
+  },
+  "welcome": {
+    "title": "¡Bienvenido a TradeNavigatorPro!",
+    "subtitle": "Personalicemos tu experiencia para ayudarte a tener éxito",
+    "primaryChallenge": "¿Cuál es tu mayor desafío en este momento?",
+    "businessSize": "¿Cuál es el tamaño de tu negocio?",
+    "industry": "¿En qué industria te encuentras?",
+    "priorities": "¿Cuáles son tus principales prioridades? (Selecciona todas las que apliquen)",
+    "getStartedPersonalized": "Comenzar con Recomendaciones Personalizadas",
+    "challenges": {
+      "risingCosts": "Costos de importación crecientes debido a aranceles",
+      "supplierRisk": "Concentración y riesgo de proveedores",
+      "compliance": "Cumplimiento comercial y documentación",
+      "forecasting": "Pronóstico de demanda y planificación"
+    },
+    "businessSizes": {
+      "small": "Pequeño (1-50 empleados)",
+      "medium": "Mediano (51-200 empleados)",
+      "large": "Grande (200+ empleados)"
+    },
+    "industries": {
+      "manufacturing": "Manufactura",
+      "retail": "Retail/E-commerce",
+      "distribution": "Distribución/Mayoreo",
+      "other": "Otro"
+    },
+    "priorityOptions": {
+      "costReduction": "Reducir costos inmediatamente",
+      "riskMitigation": "Mitigar riesgos de cadena de suministro",
+      "compliance": "Asegurar cumplimiento comercial",
+      "efficiency": "Mejorar eficiencia operacional",
+      "growth": "Apoyar crecimiento del negocio"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "help": {
+    "general": {
+      "title": "Ayuda General",
+      "gettingStarted": {
+        "title": "Primeros Pasos",
+        "content": "Comience completando su perfil empresarial. Esto nos ayuda a proporcionar recomendaciones personalizadas para su industria y tamaño de empresa."
+      },
+      "understandingTariffs": {
+        "title": "Comprensión de Aranceles",
+        "content": "Los aranceles son impuestos sobre bienes importados. Pueden impactar significativamente sus costos de productos. Nuestra plataforma le ayuda a identificar y mitigar estos costos."
+      },
+      "roiCalculator": {
+        "title": "Calculadora de ROI",
+        "content": "Use nuestra calculadora para entender el retorno potencial de la inversión de optimizar su cadena de suministro y estrategia arancelaria."
+      }
+    },
+    "tariffs": {
+      "title": "Ayuda de Aranceles",
+      "hsCodes": {
+        "title": "¿Qué son los Códigos HS?",
+        "content": "Los códigos del Sistema Armonizado (HS) clasifican productos comerciados internacionalmente. Cada producto tiene un código específico que determina las tasas arancelarias."
+      },
+      "costImpact": {
+        "title": "Impacto en Costos",
+        "content": "Los aranceles se agregan al costo de sus bienes importados. Un arancel del 10% en un producto de $1000 añade $100 a su costo."
+      }
+    },
+    "contact": {
+      "needMoreHelp": "¿Necesita más ayuda?",
+      "contactInfo": "Contáctenos en support@smbtariffsuite.com o use el chat en vivo para asistencia inmediata."
+    }
+  },
+  "onboarding": {
+    "welcome": {
+      "title": "Bienvenido a SMB Tariff Suite",
+      "content": "Somos su plataforma todo en uno para navegar desafíos arancelarios. Le ayudaremos a optimizar costos y reducir riesgos de cumplimiento."
+    },
+    "profile": {
+      "title": "Comience con Su Perfil",
+      "content": "Complete su perfil empresarial para recibir recomendaciones personalizadas basadas en su industria, tamaño y mercados objetivo."
+    },
+    "identify": {
+      "title": "Identifique Impactos Arancelarios",
+      "content": "Use nuestras herramientas de IA para clasificar automáticamente sus productos y identificar posibles impactos arancelarios."
+    },
+    "action": {
+      "title": "Tome Acción",
+      "content": "Implemente nuestras recomendaciones para optimizar su cadena de suministro y reducir costos arancelarios."
+    }
+  },
+  "businessContext": {
+    "whatThisMeans": "Lo que esto significa para su negocio:",
+    "riskLevels": {
+      "low": "Bajo",
+      "medium": "Medio",
+      "high": "Alto"
+    }
+  },
+  "tooltips": {
+    "productsAffected": "Número de productos en su catálogo que están sujetos a aranceles de importación",
+    "potentialSavings": "Estimación de ahorros anuales a través de optimización de cadena de suministro y estrategia arancelaria",
+    "complianceScore": "Medida de qué tan bien su empresa cumple con las regulaciones comerciales actuales",
+    "tariffRate": "Porcentaje de impuesto aplicado al valor de bienes importados",
+    "hsCode": "Código de 6-10 dígitos usado para clasificar productos comerciados internacionalmente",
+    "supplierRisk": "Evaluación del riesgo asociado con la concentración geográfica de proveedores",
+    "diversificationScore": "Medida de qué tan diversificada está su cadena de suministro",
+    "roiProjection": "Retorno estimado de la inversión basado en ahorros de costos proyectados"
+  },
+  "actionableInsights": {
+    "highTariffProducts": "Considere fuentes alternativas para estos productos o explore exenciones comerciales disponibles.",
+    "supplierConcentration": "Diversificar proveedores a través de múltiples países puede reducir significativamente el riesgo arancelario.",
+    "complianceGaps": "Abordar estos problemas de cumplimiento puede prevenir retrasos costosos y multas.",
+    "costOptimization": "Implementar estas recomendaciones podría ahorrar a su empresa entre $X-$Y anualment",
+    "riskMitigation": "Estos cambios reducirían su exposición al riesgo arancelario en un X%."
+  }
+}

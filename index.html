@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="SMB Tariff Management Suite - Navigate the tariff-driven economy with integrated cost management, supplier diversification, and strategic planning tools."
+    />
+    <meta name="theme-color" content="#2563eb" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="SMB Tariff" />
+
+    <!-- Web App Manifest -->
+    <link rel="manifest" href="/manifest.json" />
+
+    <!-- Apple Touch Icons -->
+    <link rel="apple-touch-icon" href="/vite.svg" />
+
+    <title>SMB Tariff Management Suite</title>
+    
+    <!-- Early error suppression for vendor.js and extension conflicts -->
+    <script>
+      // Suppress vendor.js and extension errors before React loads
+      window.addEventListener('error', function(event) {
+        const fileName = event.filename || '';
+        const errorMessage = event.message || '';
+        
+        if (fileName.includes('vendor.js') || 
+            fileName.includes('chrome-extension://') ||
+            errorMessage.includes('message channel closed') ||
+            errorMessage.includes('listener indicated an asynchronous response')) {
+          console.warn('🔇 Early vendor/extension error suppressed:', errorMessage);
+          event.preventDefault();
+          return false;
+        }
+      });
+      
+      window.addEventListener('unhandledrejection', function(event) {
+        const errorMessage = String(event.reason);
+        
+        if (errorMessage.includes('message channel closed') || 
+            errorMessage.includes('listener indicated an asynchronous response')) {
+          console.warn('🔇 Early promise rejection suppressed (vendor.js):', errorMessage);
+          event.preventDefault();
+          return false;
+        }
+      });
+      
+      console.log('🛡️ Early vendor.js error suppression active');
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

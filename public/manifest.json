@@ -1,0 +1,76 @@
+{
+  "name": "SMB Tariff Management Suite",
+  "short_name": "SMB Tariff",
+  "description": "A comprehensive SaaS platform designed to help North American small and medium businesses survive and compete in a tariff-driven economy through integrated cost management, supplier diversification, and strategic planning tools.",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "start_url": "/",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["business", "finance", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Cost Calculator",
+      "short_name": "Calculator",
+      "description": "Calculate tariff impact on your products",
+      "url": "/?tab=calculator",
+      "icons": [
+        {
+          "src": "/icon-192.svg",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Supplier Analysis",
+      "short_name": "Suppliers",
+      "description": "Analyze and diversify your supplier base",
+      "url": "/?tab=suppliers",
+      "icons": [
+        {
+          "src": "/icon-192.svg",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "AI Recommendations",
+      "short_name": "AI Insights",
+      "description": "Get AI-powered business recommendations",
+      "url": "/?tab=ai",
+      "icons": [
+        {
+          "src": "/icon-192.svg",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

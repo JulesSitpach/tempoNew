@@ -1,0 +1,8 @@
+{
+  "components": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "noData": "No data available"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "help": {
+    "general": {
+      "title": "General Help",
+      "gettingStarted": {
+        "title": "Getting Started",
+        "content": "Start by completing your business profile. This helps us provide personalized recommendations for your industry and company size."
+      },
+      "understandingTariffs": {
+        "title": "Understanding Tariffs",
+        "content": "Tariffs are taxes on imported goods. They can significantly impact your product costs. Our platform helps you identify and mitigate these costs."
+      },
+      "roiCalculator": {
+        "title": "ROI Calculator",
+        "content": "Use our calculator to understand the potential return on investment of optimizing your supply chain and tariff strategy."
+      }
+    },
+    "tariffs": {
+      "title": "Tariff Help",
+      "hsCodes": {
+        "title": "What are HS Codes?",
+        "content": "Harmonized System (HS) codes classify internationally traded products. Each product has a specific code that determines tariff rates."
+      },
+      "costImpact": {
+        "title": "Cost Impact",
+        "content": "Tariffs are added to the cost of your imported goods. A 10% tariff on a $1000 product adds $100 to your cost."
+      }
+    },
+    "contact": {
+      "needMoreHelp": "Need more help?",
+      "contactInfo": "Contact us at support@smbtariffsuite.com or use live chat for immediate assistance."
+    }
+  },
+  "onboarding": {
+    "welcome": {
+      "title": "Welcome to SMB Tariff Suite",
+      "content": "We're your all-in-one platform for navigating tariff challenges. We'll help you optimize costs and reduce compliance risks."
+    },
+    "profile": {
+      "title": "Start with Your Profile",
+      "content": "Complete your business profile to receive personalized recommendations based on your industry, size, and target markets."
+    },
+    "identify": {
+      "title": "Identify Tariff Impacts",
+      "content": "Use our AI tools to automatically classify your products and identify potential tariff impacts."
+    },
+    "action": {
+      "title": "Take Action",
+      "content": "Implement our recommendations to optimize your supply chain and reduce tariff costs."
+    }
+  },
+  "businessContext": {
+    "whatThisMeans": "What this means for your business:",
+    "riskLevels": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    }
+  },
+  "tooltips": {
+    "productsAffected": "Number of products in your catalog that are subject to import tariffs",
+    "potentialSavings": "Estimated annual savings through supply chain optimization and tariff strategy",
+    "complianceScore": "Measure of how well your company complies with current trade regulations",
+    "tariffRate": "Percentage tax applied to the value of imported goods",
+    "hsCode": "6-10 digit code used to classify internationally traded products",
+    "supplierRisk": "Assessment of risk associated with geographic concentration of suppliers",
+    "diversificationScore": "Measure of how diversified your supply chain is",
+    "roiProjection": "Estimated return on investment based on projected cost savings"
+  },
+  "actionableInsights": {
+    "highTariffProducts": "Consider alternative sources for these products or explore available trade exemptions.",
+    "supplierConcentration": "Diversifying suppliers across multiple countries can significantly reduce tariff risk.",
+    "complianceGaps": "Addressing these compliance issues can prevent costly delays and penalties.",
+    "costOptimization": "Implementing these recommendations could save your company $X-$Y annually.",
+    "riskMitigation": "These changes would reduce your tariff risk exposure by X%."
+  }
+}

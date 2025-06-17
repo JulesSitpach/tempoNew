@@ -1,0 +1,143 @@
+{
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to your Tariff Management Dashboard",
+    "overview": "Overview",
+    "metrics": "Key Metrics",
+    "alerts": "Alerts",
+    "actions": "Quick Actions",
+    "quickStats": {
+      "products": "Products",
+      "potentialSavings": "Potential Savings",
+      "suppliers": "Suppliers",
+      "complete": "Complete"
+    },
+    "workflow": {
+      "guidance": "Get the best results by following our guided workflow",
+      "recommendedStart": "Recommended: Start with Step 1",
+      "stepByStepDesc": "Begin with the Cost Calculator to analyze your current situation, then follow each step for optimal results. Each module builds on the previous one.",
+      "comprehensiveJourney": "While you can use individual modules, the best results come from following the complete workflow - each step builds on the insights from the previous one to create a comprehensive view of your business.",
+      "flexibilityNote": "Each module can be used independently, but following the complete sequence provides the most comprehensive insights for your business.",
+      "startHere": "START HERE",
+      "startAnalysis": "Start Your Analysis",
+      "journeyDescription": "Transform your trade operations with our integrated suite of tools. Begin with the Cost Calculator below and follow the guided workflow for best results."
+    }
+  },
+  "navigation": {
+    "title": "SMB Tariff Suite",
+    "subtitle": "Professional Trade Management",
+    "menuButton": "Open Navigation Menu",
+    "signOut": "Sign Out",
+    "languageToggle": "Switch Language",
+    "steps": {
+      "import": "Import",
+      "analysis": "Analysis",
+      "suppliers": "Suppliers",
+      "planning": "Planning",
+      "workforce": "Workforce",
+      "alerts": "Alerts",
+      "ai": "AI Insights"
+    }
+  },
+  "dataStatus": {
+    "checking": "Checking...",
+    "live": "Live Data",
+    "updated": "Updated: {{time}}",
+    "cached": "Data from: {{date}}, {{time}}",
+    "offline": "Using cached data",
+    "details": "View details",
+    "title": "Data Status",
+    "cachedTitle": "Using Recent Data",
+    "cachedDesc": "Showing the most recent available trade data. Your analysis remains accurate.",
+    "fallbackNotice": "Currently using cached trade data. Your analysis accuracy is maintained."
+  },
+  "modules": {
+    "fileImport": "Cost Calculator",
+    "fileImportDesc": "Upload and analyze your product data to calculate tariff impacts and potential cost savings.",
+    "tariffAnalysis": "Tariff Impact Analysis",
+    "tariffAnalysisDesc": "Deep dive into tariff impacts with advanced analytics and scenario modeling.",
+    "supplierDiversification": "Supplier Diversification",
+    "supplierDiversificationDesc": "Identify alternative suppliers and reduce supply chain risks through diversification.",
+    "supplyChainPlanning": "Supply Chain Planning",
+    "supplyChainPlanningDesc": "Optimize your supply chain with predictive analytics and strategic planning tools.",
+    "workforcePlanning": "Workforce Planning",
+    "workforcePlanningDesc": "Plan workforce adjustments based on trade impact analysis and business projections.",
+    "alertsSetup": "Alerts & Monitoring",
+    "alertsSetupDesc": "Set up intelligent alerts for tariff changes, supply chain disruptions, and opportunities.",
+    "aiRecommendations": "AI Recommendations",
+    "aiRecommendationsDesc": "Get personalized recommendations powered by AI to optimize your trade strategy.",
+    "workflowComplete": "Workflow Complete",
+    "completeDesc": "Congratulations! You've completed the full tariff management workflow."
+  },
+  "costCalculator": {
+    "title": "Cost Calculator",
+    "subtitle": "Analyze tariff impact on your products",
+    "fileUpload": {
+      "title": "Upload File",
+      "description": "Upload your CSV, XLSX or PDF file with product data",
+      "dragDrop": "Drag and drop your file here, or click to select",
+      "supportedFormats": "Supported formats: CSV, XLSX, PDF",
+      "maxSize": "Maximum size: 10MB",
+      "uploading": "Uploading file...",
+      "processing": "Processing data...",
+      "success": "File processed successfully",
+      "error": "Error processing file"
+    },
+    "analysis": {
+      "title": "Tariff Impact Analysis",
+      "totalProducts": "Total Products",
+      "affectedProducts": "Affected Products",
+      "totalImpact": "Total Impact",
+      "averageIncrease": "Average Increase",
+      "highRiskProducts": "High Risk Products",
+      "recommendations": "Recommendations",
+      "htsCodesCovered": "HTS Codes Found",
+      "tariffRateRange": "Tariff Rate Range",
+      "totalOriginalValue": "Original Total Value",
+      "totalNewValue": "New Total Value",
+      "totalTariffCost": "Total Tariff Cost"
+    },
+    "export": {
+      "title": "Export Results",
+      "excel": "Export to Excel",
+      "pdf": "Export to PDF",
+      "csv": "Export to CSV"
+    },
+    "table": {
+      "product": "Product",
+      "sku": "SKU",
+      "description": "Description",
+      "quantity": "Quantity",
+      "unitCost": "Unit Cost",
+      "htsCode": "HTS Code",
+      "tariffRate": "Tariff Rate",
+      "tariffImpact": "Tariff Impact",
+      "newCost": "New Cost",
+      "totalImpact": "Total Impact",
+      "supplier": "Supplier",
+      "origin": "Country of Origin"
+    },
+    "summary": {
+      "noData": "No data available. Please upload a file to begin analysis.",
+      "dataUploaded": "Data uploaded successfully",
+      "analysisComplete": "Analysis complete",
+      "readyForNext": "Ready for next step"
+    }
+  },
+  "actions": {
+    "reviewAndProceed": "Review & Proceed",
+    "configureSettings": "Configure Settings",
+    "restart": "Restart Workflow",
+    "getStarted": "Get Started",
+    "continue": "Continue",
+    "complete": "Complete",
+    "exploreSources": "Explore Sources",
+    "planWorkforce": "Plan Workforce",
+    "setupAlerts": "Setup Alerts",
+    "getInsights": "Get Insights"
+  },
+  "common": {
+    "checking": "Checking...",
+    "refresh": "Refresh"
+  }
+}

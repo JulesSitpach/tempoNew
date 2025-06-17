@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "title": "Gestión de Aranceles para Pequeñas Empresas",
+    "subtitle": "Navega las complejidades comerciales con confianza. Transforma los desafíos arancelarios en ventajas competitivas.",
+    "description": "Plataforma completa de inteligencia comercial impulsada por IA diseñada específicamente para PYMES que importan productos. Obtén análisis de aranceles en tiempo real, estrategias de diversificación de proveedores y herramientas de planificación de personal.",
+    "cta": "Comenzar Gratis",
+    "ctaSecondary": "Ver Demo",
+    "features": {
+      "realTimeData": "Datos de Aranceles en Tiempo Real",
+      "aiPowered": "Análisis Impulsado por IA",
+      "supplierNetwork": "Red Global de Proveedores"
+    }
+  },
+  "navigation": {
+    "features": "Características",
+    "pricing": "Precios",
+    "about": "Acerca de",
+    "login": "Iniciar Sesión",
+    "getStarted": "Comenzar",
+    "languageSwitch": "English"
+  },
+  "features": {
+    "sectionTitle": "Inteligencia Comercial Todo-en-Uno para PYMES",
+    "sectionDescription": "Desbloquea cinco herramientas poderosas impulsadas por IA para navegar la política comercial de EE.UU., aranceles y desafíos de la cadena de suministro con confianza.",
+    "costCalculator": {
+      "title": "Calculadora de Costos",
+      "description": "Analiza el impacto de aranceles en los costos de tus productos con cálculos en tiempo real y exportaciones multi-formato."
+    },
+    "supplierDiversification": {
+      "title": "Diversificación de Proveedores",
+      "description": "Descubre proveedores alternativos y evalúa riesgos geopolíticos para reducir la dependencia."
+    },
+    "supplyChainPlanner": {
+      "title": "Planificador de Cadena de Suministro",
+      "description": "Modela escenarios y optimiza tu estrategia de cadena de suministro con análisis predictivo."
+    },
+    "workforcePlanner": {
+      "title": "Planificador de Personal",
+      "description": "Ajusta planes de personal basado en condiciones comerciales cambiantes y dinámicas del mercado."
+    },
+    "alertsMonitoring": {
+      "title": "Alertas y Monitoreo",
+      "description": "Mantente informado con notificaciones en tiempo real sobre cambios de aranceles y actualizaciones de proveedores."
+    },
+    "aiRecommendations": {
+      "title": "Recomendaciones IA",
+      "description": "Obtén sugerencias personalizadas basadas en datos para optimizar costos y reducir riesgos."
+    }
+  },
+  "pricing": {
+    "title": "Precios Simples y Transparentes",
+    "subtitle": "Elige el plan que se adapte a las necesidades de tu negocio",
+    "monthly": "Mensual",
+    "annually": "Anual",
+    "save": "Ahorra 20%",
+    "freeTier": {
+      "name": "Inicial",
+      "price": "Gratis",
+      "description": "Perfecto para comenzar",
+      "features": [
+        "Hasta 50 productos",
+        "Análisis básico de aranceles",
+        "Soporte por email",
+        "Calculadoras básicas"
+      ],
+      "cta": "Comenzar Gratis"
+    },
+    "proPlan": {
+      "name": "Profesional",
+      "price": "$99",
+      "period": "/mes",
+      "description": "Para empresas en crecimiento",
+      "features": [
+        "Hasta 1,000 productos",
+        "Análisis avanzado",
+        "Soporte prioritario",
+        "Reportes personalizados",
+        "Acceso API"
+      ],
+      "cta": "Probar Gratis"
+    },
+    "enterprisePlan": {
+      "name": "Empresarial",
+      "price": "$299",
+      "period": "/mes",
+      "description": "Para operaciones grandes",
+      "features": [
+        "Productos ilimitados",
+        "Opciones de marca blanca",
+        "Soporte dedicado",
+        "Integraciones personalizadas",
+        "Garantía SLA"
+      ],
+      "cta": "Contactar Ventas"
+    }
+  },
+  "cta": {
+    "title": "¿Listo para Transformar tus Operaciones Comerciales?",
+    "subtitle": "Únete a miles de PYMES que usan nuestra plataforma para navegar aranceles y optimizar sus cadenas de suministro.",
+    "button": "Iniciar Prueba Gratuita",
+    "noCredit": "No se requiere tarjeta de crédito • Prueba gratis de 14 días"
+  },
+  "testimonials": {
+    "title": "Confiado por PYMES en Todo el Mundo",
+    "subtitle": "Ve cómo empresas como la tuya están teniendo éxito con nuestra plataforma"
+  }
+}

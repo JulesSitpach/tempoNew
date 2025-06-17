@@ -1,0 +1,319 @@
+{
+  "dashboard": {
+    "title": "Panel de Control",
+    "welcome": "Bienvenido a su Panel de Gestión de Aranceles",
+    "overview": "Resumen",
+    "metrics": "Métricas Clave",
+    "alerts": "Alertas",
+    "actions": "Acciones Rápidas",
+    "quickStats": {
+      "products": "Productos",
+      "potentialSavings": "Ahorros Potenciales",
+      "suppliers": "Proveedores",
+      "complete": "Completo"
+    },
+    "workflow": {
+      "guidance": "Obtenga los mejores resultados siguiendo nuestro flujo de trabajo guiado",
+      "recommendedStart": "Recomendado: Comience con el Paso 1",
+      "stepByStepDesc": "Comience con la Calculadora de Costos para analizar su situación actual, luego siga cada paso para obtener resultados óptimos. Cada módulo se basa en el anterior.",
+      "comprehensiveJourney": "Aunque puede usar módulos individuales, los mejores resultados provienen de seguir el flujo completo - cada paso se basa en los conocimientos del anterior para crear una visión integral de su negocio.",
+      "flexibilityNote": "Cada módulo se puede usar de forma independiente, pero seguir la secuencia completa proporciona los conocimientos más integrales para su negocio.",
+      "startHere": "EMPEZAR AQUÍ",
+      "startAnalysis": "Comenzar Su Análisis",
+      "journeyDescription": "Transforme sus operaciones comerciales con nuestra suite integrada de herramientas. Comience con la Calculadora de Costos a continuación y siga el flujo de trabajo guiado para obtener mejores resultados."
+    }
+  },
+  "navigation": {
+    "title": "Suite Arancelaria PYME",
+    "subtitle": "Gestión Comercial Profesional",
+    "menuButton": "Abrir Menú de Navegación",
+    "signOut": "Cerrar Sesión",
+    "languageToggle": "Cambiar Idioma",
+    "steps": {
+      "import": "Importar",
+      "analysis": "Análisis",
+      "suppliers": "Proveedores",
+      "planning": "Planificación",
+      "workforce": "Personal",
+      "alerts": "Alertas",
+      "ai": "IA"
+    }
+  },
+  "dataStatus": {
+    "checking": "Verificando...",
+    "live": "Datos en Vivo",
+    "updated": "Actualizado: {{time}}",
+    "cached": "Datos de: {{date}}, {{time}}",
+    "offline": "Usando datos almacenados",
+    "details": "Ver detalles",
+    "title": "Estado de Datos",
+    "cachedTitle": "Usando Datos Recientes",
+    "cachedDesc": "Mostrando los datos comerciales más recientes disponibles. Su análisis se mantiene preciso.",
+    "fallbackNotice": "Actualmente usando datos comerciales almacenados. La precisión de su análisis se mantiene."
+  },
+  "modules": {
+    "fileImport": "Calculadora de Costos",
+    "fileImportDesc": "Suba y analice los datos de sus productos para calcular impactos arancelarios y ahorros potenciales de costos.",
+    "tariffAnalysis": "Análisis de Impacto Arancelario",
+    "tariffAnalysisDesc": "Profundice en los impactos arancelarios con análisis avanzado y modelado de escenarios.",
+    "supplierDiversification": "Diversificación de Proveedores",
+    "supplierDiversificationDesc": "Identifique proveedores alternativos y reduzca riesgos de la cadena de suministro a través de la diversificación.",
+    "supplyChainPlanning": "Planificación de Cadena de Suministro",
+    "supplyChainPlanningDesc": "Optimice su cadena de suministro con análisis predictivo y herramientas de planificación estratégica.",
+    "workforcePlanning": "Planificación de Personal",
+    "workforcePlanningDesc": "Planifique ajustes de personal basados en análisis de impacto comercial y proyecciones empresariales.",
+    "alertsSetup": "Alertas y Monitoreo",
+    "alertsSetupDesc": "Configure alertas inteligentes para cambios arancelarios, interrupciones de la cadena de suministro y oportunidades.",
+    "aiRecommendations": "Recomendaciones de IA",
+    "aiRecommendationsDesc": "Obtenga recomendaciones personalizadas impulsadas por IA para optimizar su estrategia comercial.",
+    "workflowComplete": "Flujo de Trabajo Completo",
+    "completeDesc": "¡Felicitaciones! Ha completado el flujo de trabajo completo de gestión arancelaria."
+  },
+  "costCalculator": {
+    "title": "Calculadora de Costos",
+    "subtitle": "Analiza el impacto de aranceles en tus productos",
+    "fileUpload": {
+      "title": "Subir Archivo",
+      "description": "Sube tu archivo CSV, XLSX o PDF con datos de productos",
+      "dragDrop": "Arrastra y suelta tu archivo aquí, o haz clic para seleccionar",
+      "supportedFormats": "Formatos soportados: CSV, XLSX, PDF",
+      "maxSize": "Tamaño máximo: 10MB",
+      "uploading": "Subiendo archivo...",
+      "processing": "Procesando datos...",
+      "success": "Archivo procesado exitosamente",
+      "error": "Error al procesar el archivo"
+    },
+    "analysis": {
+      "title": "Análisis de Impacto Arancelario",
+      "totalProducts": "Total de Productos",
+      "affectedProducts": "Productos Afectados",
+      "totalImpact": "Impacto Total",
+      "averageIncrease": "Aumento Promedio",
+      "highRiskProducts": "Productos de Alto Riesgo",
+      "recommendations": "Recomendaciones"
+    },
+    "export": {
+      "title": "Exportar Resultados",
+      "excel": "Exportar a Excel",
+      "pdf": "Exportar a PDF",
+      "csv": "Exportar a CSV"
+    }
+  },
+  "supplierDiversification": {
+    "title": "Diversificación de Proveedores",
+    "subtitle": "Reduce riesgos diversificando tu cadena de suministro",
+    "comparison": {
+      "title": "Matriz de Comparación de Proveedores",
+      "supplier": "Proveedor",
+      "country": "País",
+      "tariffRisk": "Riesgo Arancelario",
+      "pricing": "Precios",
+      "reliability": "Confiabilidad",
+      "leadTime": "Tiempo de Entrega",
+      "quality": "Calidad"
+    },
+    "riskAssessment": {
+      "title": "Evaluación de Riesgos",
+      "geographicRisk": "Riesgo Geográfico",
+      "supplierConcentration": "Concentración de Proveedores",
+      "diversificationScore": "Puntuación de Diversificación"
+    },
+    "recommendations": {
+      "title": "Recomendaciones de Abastecimiento Alternativo",
+      "newSuppliers": "Nuevos Proveedores Sugeridos",
+      "riskReduction": "Reducción de Riesgo",
+      "costImpact": "Impacto en Costos"
+    }
+  },
+  "supplyChainPlanner": {
+    "title": "Planificador de Cadena de Suministro",
+    "subtitle": "Optimiza tu cadena de suministro con análisis de escenarios",
+    "scenarioModeling": {
+      "title": "Modelado de Escenarios",
+      "currentScenario": "Escenario Actual",
+      "alternativeScenario": "Escenario Alternativo",
+      "comparison": "Comparación",
+      "whatIf": "Análisis ¿Qué Pasaría Si?"
+    },
+    "supplierChange": {
+      "title": "Simulación de Cambio de Proveedor",
+      "currentSupplier": "Proveedor Actual",
+      "proposedSupplier": "Proveedor Propuesto",
+      "impactAssessment": "Evaluación de Impacto",
+      "transitionCost": "Costo de Transición"
+    },
+    "inventoryOptimization": {
+      "title": "Optimización de Inventario",
+      "currentLevels": "Niveles Actuales",
+      "recommendedLevels": "Niveles Recomendados",
+      "safetyStock": "Stock de Seguridad",
+      "reorderPoint": "Punto de Reorden"
+    },
+    "resilienceScore": {
+      "title": "Puntuación de Resistencia",
+      "overall": "General",
+      "geographic": "Geográfica",
+      "supplier": "Proveedor",
+      "product": "Producto",
+      "improvements": "Mejoras Sugeridas"
+    }
+  },
+  "workforcePlanner": {
+    "title": "Planificador de Fuerza Laboral",
+    "subtitle": "Ajusta tu planificación de personal basada en cambios de costos",
+    "staffingAnalysis": {
+      "title": "Análisis de Personal Basado en Costos",
+      "currentStaff": "Personal Actual",
+      "recommendedStaff": "Personal Recomendado",
+      "costImpact": "Impacto en Costos",
+      "adjustmentReason": "Razón del Ajuste"
+    },
+    "scenarioForecasting": {
+      "title": "Pronóstico Basado en Escenarios",
+      "optimistic": "Optimista",
+      "realistic": "Realista",
+      "pessimistic": "Pesimista",
+      "staffingNeeds": "Necesidades de Personal"
+    },
+    "skillsGap": {
+      "title": "Análisis de Brecha de Habilidades",
+      "currentSkills": "Habilidades Actuales",
+      "requiredSkills": "Habilidades Requeridas",
+      "trainingNeeds": "Necesidades de Capacitación",
+      "trainingCost": "Costo de Capacitación"
+    },
+    "budgetImpact": {
+      "title": "Calculadora de Impacto Presupuestario",
+      "currentBudget": "Presupuesto Actual",
+      "projectedBudget": "Presupuesto Proyectado",
+      "variance": "Variación",
+      "recommendations": "Recomendaciones"
+    }
+  },
+  "alertsMonitoring": {
+    "title": "Alertas y Monitoreo",
+    "subtitle": "Mantente informado sobre cambios que afectan tu negocio",
+    "tariffUpdates": {
+      "title": "Actualizaciones de Aranceles en Tiempo Real",
+      "recentChanges": "Cambios Recientes",
+      "affectedProducts": "Productos Afectados",
+      "impactLevel": "Nivel de Impacto",
+      "actionRequired": "Acción Requerida"
+    },
+    "supplierNews": {
+      "title": "Monitoreo de Noticias de Proveedores",
+      "recentNews": "Noticias Recientes",
+      "riskLevel": "Nivel de Riesgo",
+      "affectedSuppliers": "Proveedores Afectados",
+      "recommendations": "Recomendaciones"
+    },
+    "alertSettings": {
+      "title": "Configuración de Alertas Personalizables",
+      "notificationPreferences": "Preferencias de Notificación",
+      "alertThresholds": "Umbrales de Alerta",
+      "frequency": "Frecuencia",
+      "channels": "Canales de Notificación"
+    }
+  },
+  "aiRecommendations": {
+    "title": "Recomendaciones de IA",
+    "subtitle": "Obtén insights personalizados impulsados por inteligencia artificial",
+    "costSavings": {
+      "title": "Ahorros de Costos Personalizados",
+      "potentialSavings": "Ahorros Potenciales",
+      "implementationCost": "Costo de Implementación",
+      "paybackPeriod": "Período de Recuperación",
+      "riskLevel": "Nivel de Riesgo"
+    },
+    "diversificationStrategies": {
+      "title": "Estrategias de Diversificación de Proveedores",
+      "recommendedSuppliers": "Proveedores Recomendados",
+      "diversificationScore": "Puntuación de Diversificación",
+      "implementationPlan": "Plan de Implementación",
+      "expectedBenefits": "Beneficios Esperados"
+    },
+    "operationalImprovements": {
+      "title": "Mejoras Operacionales",
+      "processOptimization": "Optimización de Procesos",
+      "efficiencyGains": "Ganancias de Eficiencia",
+      "implementationSteps": "Pasos de Implementación",
+      "expectedROI": "ROI Esperado"
+    },
+    "predictiveAnalytics": {
+      "title": "Análisis Predictivo",
+      "marketTrends": "Tendencias del Mercado",
+      "costProjections": "Proyecciones de Costos",
+      "riskForecasts": "Pronósticos de Riesgo",
+      "actionableInsights": "Insights Accionables"
+    }
+  },
+  "common": {
+    "checking": "Verificando...",
+    "refresh": "Actualizar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "warning": "Advertencia",
+    "info": "Información",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "download": "Descargar",
+    "upload": "Subir",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "close": "Cerrar",
+    "open": "Abrir",
+    "expand": "Expandir",
+    "collapse": "Contraer",
+    "select": "Seleccionar",
+    "deselect": "Deseleccionar",
+    "selectAll": "Seleccionar Todo",
+    "deselectAll": "Deseleccionar Todo",
+    "apply": "Aplicar",
+    "reset": "Restablecer",
+    "clear": "Limpiar",
+    "submit": "Enviar",
+    "processing": "Procesando...",
+    "completed": "Completado",
+    "failed": "Falló",
+    "pending": "Pendiente",
+    "active": "Activo",
+    "inactive": "Inactivo",
+    "enabled": "Habilitado",
+    "disabled": "Deshabilitado",
+    "yes": "Sí",
+    "no": "No",
+    "high": "Alto",
+    "medium": "Medio",
+    "low": "Bajo",
+    "critical": "Crítico",
+    "moderate": "Moderado",
+    "minimal": "Mínimo",
+    "currency": "$",
+    "percentage": "%",
+    "days": "días",
+    "weeks": "semanas",
+    "months": "meses",
+    "years": "años"
+  },
+  "actions": {
+    "reviewAndProceed": "Revisar y Proceder",
+    "configureSettings": "Configurar Ajustes",
+    "restart": "Reiniciar Flujo",
+    "getStarted": "Comenzar",
+    "continue": "Continuar",
+    "complete": "Completar",
+    "exploreSources": "Explorar Fuentes",
+    "planWorkforce": "Planificar Personal",
+    "setupAlerts": "Configurar Alertas",
+    "getInsights": "Obtener Perspectivas"
+  }
+}

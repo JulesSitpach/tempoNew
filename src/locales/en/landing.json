@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "title": "Tariff Management for Small Business",
+    "subtitle": "Navigate trade complexities with confidence. Transform tariff challenges into competitive advantages.",
+    "description": "Complete AI-powered trade intelligence platform designed specifically for SMBs importing goods. Get real-time tariff analysis, supplier diversification strategies, and workforce planning tools.",
+    "cta": "Get Started Free",
+    "ctaSecondary": "Watch Demo",
+    "features": {
+      "realTimeData": "Real-Time Tariff Data",
+      "aiPowered": "AI-Powered Analysis",
+      "supplierNetwork": "Global Supplier Network"
+    }
+  },
+  "navigation": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "login": "Login",
+    "getStarted": "Get Started",
+    "languageSwitch": "Español"
+  },
+  "features": {
+    "sectionTitle": "All-in-One Trade Intelligence for SMBs",
+    "sectionDescription": "Unlock five powerful AI-driven tools to navigate U.S. trade policy, tariffs, and supply chain challenges with confidence.",
+    "costCalculator": {
+      "title": "Cost Calculator",
+      "description": "Analyze tariff impact on your product costs with real-time calculations and multi-format exports."
+    },
+    "supplierDiversification": {
+      "title": "Supplier Diversification",
+      "description": "Discover alternative suppliers and assess geopolitical risks to reduce dependency."
+    },
+    "supplyChainPlanner": {
+      "title": "Supply Chain Planner",
+      "description": "Model scenarios and optimize your supply chain strategy with predictive analytics."
+    },
+    "workforcePlanner": {
+      "title": "Workforce Planner",
+      "description": "Adjust staffing plans based on changing business conditions and market dynamics."
+    },
+    "alertsMonitoring": {
+      "title": "Alerts & Monitoring",
+      "description": "Stay informed with real-time notifications about tariff changes and supplier updates."
+    },
+    "aiRecommendations": {
+      "title": "AI Recommendations",
+      "description": "Get personalized, data-driven suggestions to optimize costs and reduce risks."
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that fits your business needs",
+    "monthly": "Monthly",
+    "annually": "Annually",
+    "save": "Save 20%",
+    "freeTier": {
+      "name": "Starter",
+      "price": "Free",
+      "description": "Perfect for getting started",
+      "features": [
+        "Up to 50 products",
+        "Basic tariff analysis",
+        "Email support",
+        "Core calculators"
+      ],
+      "cta": "Get Started Free"
+    },
+    "proPlan": {
+      "name": "Professional",
+      "price": "$99",
+      "period": "/month",
+      "description": "For growing businesses",
+      "features": [
+        "Up to 1,000 products",
+        "Advanced analytics",
+        "Priority support",
+        "Custom reports",
+        "API access"
+      ],
+      "cta": "Start Free Trial"
+    },
+    "enterprisePlan": {
+      "name": "Enterprise",
+      "price": "$299",
+      "period": "/month",
+      "description": "For large operations",
+      "features": [
+        "Unlimited products",
+        "White-label options",
+        "Dedicated support",
+        "Custom integrations",
+        "SLA guarantee"
+      ],
+      "cta": "Contact Sales"
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Trade Operations?",
+    "subtitle": "Join thousands of SMBs using our platform to navigate tariffs and optimize their supply chains.",
+    "button": "Start Your Free Trial",
+    "noCredit": "No credit card required • 14-day free trial"
+  },
+  "testimonials": {
+    "title": "Trusted by SMBs Worldwide",
+    "subtitle": "See how businesses like yours are succeeding with our platform"
+  }
+}

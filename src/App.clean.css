@@ -1,0 +1,9 @@
+/* App styles */
+.app {
+  min-height: 100vh;
+}
+
+.loading {
+  opacity: 0.7;
+  pointer-events: none;
+}
